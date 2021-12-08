@@ -16,3 +16,14 @@
 * Refactored the code to be reusable.
 * Used simple form validation with 'if' statements to prevent user errors in the application.
 * Reset the form to its default state by using the 'reset()' method on a form element.
+
+## Lesson 3
+* Practiced additional ways of traversing the DOM and manipulating elements.
+* Used a new event to specifically handle 'select' elements.
+* Leveraged event delegation to account for event handlers on multiple, dynamically generated elements.
+* Learned several new DOM element methods, including the following:
+    - setAttribute()
+    - getAttribute()
+    - removeAttribute()
+    - remove()
+    - matches()
