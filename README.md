@@ -1,4 +1,5 @@
 # Taskinator
+Taskinator is now Live! Check it out here! [https://chaskin91.github.io/Taskinator/]
 
 ## Lesson 1 
 * Access a DOM element with JavaScript
